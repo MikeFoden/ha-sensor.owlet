@@ -2,7 +2,7 @@
     "domain": "owlet",
     "name": "Owlet Smart Sock",
     "version": "0.1.1",
-    "documentation": "https://github.com/RampantRedsFan/ha-sensor.owlet",
+    "documentation": "https://github.com/mikefoden/ha-sensor.owlet",
     "requirements": [
     "PyJWT", 
     "gcloud",
@@ -10,6 +10,6 @@
     "requests_toolbelt"
     ],
     "codeowners": [
-    "@jlamendo"
+    "@mikefoden"
     ]
 }
